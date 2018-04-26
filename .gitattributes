@@ -15,3 +15,7 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+XamFormBudget/BudgetXamForm/BudgetXamForm/BudgetXamForm.Windows/*
+XamFormBudget/BudgetXamForm/BudgetXamForm/BudgetXamForm.Droid/*
+XamFormBudget/BudgetXamForm/BudgetXamForm/BudgetXamForm.iOS/*
